@@ -10,9 +10,10 @@
 | Name | GitHub |
 |------|--------|
 | Jhansimala Silla | [@sillajhansimala](https://github.com/sillajhansimala) |
-| Vishesha Bitla | [@vishesha-bitla](https://github.com/vishesha-bitla) |
+| Vishesha Bitla | [@vishesha-bitla](https://github.com/bitlavishesha1) |
+| Gafaruddin Shaik | [@gafaruddin-shaik](https://github.com/Gafarshaik78) |
 | Keerthi Sri Cherukuri | [@keerthisri-cherukuri](https://github.com/keerthisri-cherukuri) |
-| Gafaruddin Shaik | [@gafaruddin-shaik](https://github.com/gafaruddin-shaik) |
+
 
 ---
 
@@ -187,4 +188,4 @@ Special thanks to **Prof. Minsek "Cal" Ko, PhD** — Assistant Professor, Depart
 ---
 
 > 📍 Missouri University of Science and Technology | Information Science | Aug–Dec 2025
-> Team: Jhansimala Silla, Vishesha Bitla, Keerthi Sri Cherukuri, Gafaruddin Shaik
+> Team: Jhansimala Silla, Vishesha Bitla, Gafaruddin Shaik, Keerthi Sri Cherukuri
