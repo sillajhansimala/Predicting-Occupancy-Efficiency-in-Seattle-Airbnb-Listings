@@ -10,9 +10,10 @@
 | Name | GitHub |
 |------|--------|
 | Jhansimala Silla | [@sillajhansimala](https://github.com/sillajhansimala) |
-| Vishesha Bitla | [@vishesha-bitla](https://github.com/vishesha-bitla) |
+| Vishesha Bitla | [@vishesha-bitla](https://github.com/bitlavishesha1) |
+| Gafaruddin Shaik | [@gafaruddin-shaik](https://github.com/Gafarshaik78) |
 | Keerthi Sri Cherukuri | [@keerthisri-cherukuri](https://github.com/keerthisri-cherukuri) |
-| Gafaruddin Shaik | [@gafaruddin-shaik](https://github.com/gafaruddin-shaik) |
+
 
 ---
 
